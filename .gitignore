@@ -1,0 +1,12 @@
+# Node modules directory
+/node_modules/
+
+# Next.js build output
+/.next/
+/out/
+
+# Environment variables file
+/.env.local
+
+# macOS Finder files
+.DS_Store

@@ -1,0 +1,27 @@
+{
+  "name": "beachweatherapp",
+  "version": "1.0.0",
+  "description": "Beach weather forecast app for Barcelona",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AraMyst/BeachWeatherApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AraMyst/BeachWeatherApp/issues"
+  },
+  "homepage": "https://github.com/AraMyst/BeachWeatherApp#readme",
+  "dependencies": {
+    "next": "^15.3.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
