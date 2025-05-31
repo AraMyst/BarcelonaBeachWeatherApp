@@ -3,7 +3,7 @@
 View a **7‑day forecast** for Barcelona’s five most popular beaches – right in your browser. Built with **Next.js** (pages router) and **React 19**, the app pulls open data from **Open‑Meteo** and decorates it with custom beach‑specific icons.
 
 
-> **Live demo →** barcelona-beach-weather-app.vercel.app
+> **Live demo →** https://barcelona-beach-weather-app.vercel.app/
 
 ---
 
